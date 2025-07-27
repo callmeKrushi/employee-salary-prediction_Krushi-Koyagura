@@ -5,7 +5,7 @@ This project predicts whether an individual's salary is above or below ₹50K us
 
 ## 🔍 Project Highlights
 
-- Model Comparison: Logistic Regression, Decision Tree, Random Forest, XGBoost, KNN, SVC
+- Model Comparison: Logistic Regression, Random Forest, Gradient Boosting, KNN, Support Vector Machine(SVM)
 - Accuracy Metrics Visualization
 - Streamlit App Interface
 - Label Encoding for all categorical features
